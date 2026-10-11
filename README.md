@@ -6,6 +6,7 @@ around Cardano tooling and Czech fintech and data utilities.
 - [cardano-bech32-utils](https://github.com/gildor853/cardano-bech32-utils): encode, decode and inspect Cardano bech32 addresses (CIP-19, CIP-5).
 - [cardano-slot-time](https://github.com/gildor853/cardano-slot-time): convert between slots, POSIX time and epochs on mainnet, preprod and preview.
 - [cardano-asset-name](https://github.com/gildor853/cardano-asset-name): native asset IDs, CIP-14 fingerprints and CIP-67/68 labels.
+- [cardano-block-json](https://github.com/gildor853/cardano-block-json): fetch a block from any relay over the node-to-node protocol and decode everything in it to JSON.
 
 **Czech**
 
