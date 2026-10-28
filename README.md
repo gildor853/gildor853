@@ -21,6 +21,10 @@ around Cardano tooling and Czech fintech and data utilities.
 - [ua-lens](https://github.com/gildor853/ua-lens): parse User-Agent strings and Client Hints, and recognise crawlers and AI bots from their documented tokens.
 - [file-sentinel](https://github.com/gildor853/file-sentinel): static heuristic scan of untrusted files for active content, macros and type spoofing.
 
+**Security / research**
+
+- [browser-ad-blocking-security](https://github.com/gildor853/browser-ad-blocking-security): why ad and tracker blocking belongs in the browser security baseline, with sources, layered protections and ready-to-use browser policies.
+
 Mostly TypeScript. I like small APIs, real test vectors and boring, predictable code.
 
 All projects are provided as is, without warranty — see each repository's `DISCLAIMER.md`.
